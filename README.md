@@ -1,1 +1,2 @@
-# BC_Cancer_Talhouk_Lab_Bioinformatics_Research_Assistant
+# Bioinformatics Work Learn Research Assistant at the Talhouk lab, BC Cancer
+
