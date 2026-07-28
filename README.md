@@ -2,7 +2,7 @@
 
 This repository will contain scripts from my analyses at BC Cancer's Talhouk lab (currently waiting for approval to upload most). I have worked on 3 projects during my time with them, encompassing metagenomic (marker gene sequencing), genomic (cell-free DNA mutation calling) and methylomic (reduced representation bisulfite sequencing) datasets. I am currently focussed on the methylomics project.
 
-1. Independently reproduction of an end-to-end pipeline to identify target-positivity from 16S rRNA and cpn60 sequences:
+1. Independently reproduced an end-to-end pipeline to identify target-positivity from 16S rRNA and cpn60 sequences:
 - Leveraged QIIME2 for quality control (QC) of FASTQ files and trimming of primers with Cutadapt
 - Performed taxonomic annotation in a DADA2 pipeline using SILVA database (16S) and a naive bayes classifier (cpn60)
 - Filtered contaminants using decontam, as well as low prevalence/abundance ASVs and samples with low reads
