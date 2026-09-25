@@ -1,4 +1,4 @@
-# Bioinformatics Work Learn Research Assistant at the Talhouk lab, BC Cancer (May 2026 - Present)
+# Bioinformatics Research Assistant at the Talhouk lab, BC Cancer (May 2026 - Present)
 
 This repository will contain scripts from my analyses at BC Cancer's Talhouk lab (currently waiting for approval to upload most). I have worked on 3 projects during my time with them, encompassing metagenomic (marker gene sequencing), genomic (cell-free DNA mutation calling) and methylomic (reduced representation bisulfite sequencing) datasets. I am currently focussed on the methylomics project.
 
